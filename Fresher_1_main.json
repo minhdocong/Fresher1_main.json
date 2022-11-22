@@ -25,5 +25,18 @@
       "school": "FPT University",
       "date_of_birth": "28-07-2001"
     }
+  },
+
+  {
+    "Name": "Nguyễn Đức Hoàng",
+    "Data":
+  {
+    "email": "nd.hoangg@gmail.com",
+    "address": "361 Vũ Tông Phan",
+    "school": "HUST",
+    "date_of_birth": "25/04/2000",
   }
+}
 ]
+
+
