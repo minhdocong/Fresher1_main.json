@@ -36,6 +36,12 @@
     "school": "HUST",
     "date_of_birth": "25/04/2000",
   }
+},
+{
+  "Name":"Luong Hoang Lam",
+  "Data":{
+    "email":"lam.luong@sotatek.com",
+    "address":"Dang Van Ngu Dong Da ha noi"
 }
 ]
 
