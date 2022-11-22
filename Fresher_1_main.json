@@ -1,1 +1,9 @@
-
+{
+    "Name" : "Vu Phi Long",
+    "Data" : {
+        "email" : "long.vu@sotatek.com",
+        "address" : "Hoang Quoc Viet, Cau Giay, Ha Noi",
+        "school" : "FPT Aptech",
+        "date_of_birth" : "03 / 10 /2000"
+    }
+}
